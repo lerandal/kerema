@@ -1,0 +1,306 @@
+{
+  "ID": "FIX",
+  "role_BotAdmin": "Rat Bot Admin",
+  "channel_Logs": "1006655195402469396",
+  "reaction_correct": "979497191997583380",
+  "reaction_incorrect": "991419971492118678",
+  "reaction_waitlist": "1006347409485480006",
+  "reaction_banned": "979497453462122526",
+  "scrims": [
+    {
+      "server_code": "FIX",
+      "channel_Registrations": "923374914558386177",
+      "channel_Confirmations": "923375131638779905",
+      "channel_IDPW": "923884768674861066",
+      "channel_Waitlist": "891358239210500126",
+      "channel_Chat": "923374596890193960",
+      "role_Registrations": "20 | OPEN SCRIM",
+      "role_Vip_1": "fix | VIP TEAMS",
+      "role_Vip_2": "",
+      "role_Vip_3": "",
+      "role_Vip_4": "",
+      "role_Waitlist": "fix | WAIT LIST",
+      "role_IDPW": "fix | ID-PW 20",
+      "role_Banned": "fix | BANNED",
+      "text_early_regs": "Registration is now open for:<@&902129965179473942>\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_open_regs": "Registration is now open for <@&923385211029430365>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_regs": "Registrations are closed now!",
+      "text_open_waitlist": "<@&891371363380641872> Waitlist is open!\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_waitlist": "Waitlist is closed!",
+      "text_confirmation": "<@&923532996924035092> Please confirm or cancel until 18:00CEST!",
+      "text_slots": "__**FIX 8PM SCRIM SLOTS**__\n\n",
+      "text_free_slots": "__**8PM**__ scrim",
+      "text_dm_confirmation": "**FIX __8PM__ scrims.**",
+      "msg_Waitlist": "1006658635998441614",
+      "msg_Slots": "1006658728164069426",
+      "msg_IDPW": "1006658814046650418",
+      "msg_Confirmation": "1009808890059309147",
+      "is_open_Registrations": false,
+      "is_open_Waitlist": false,
+      "just_unconfirm": false,
+      "allowed_multiple_tags": true,
+      "number_of_teams": 20,
+      "max_number_of_teams": 20,
+      "number_first_slot": 3,
+      "number_of_VIP_slots": 2,
+      "remove_unconfirmed": true,
+      "activate_schedules": true,
+      "activate_results": true,
+      "results": {
+        "name": "FIX Scrims",
+        "link_code": "1oSgfy7PTjG1n1oHyFBagfRL_SA1cfy5tGQOojq332KY",
+        "format": "scrim-manager",
+        "channel_Results": "923536990908063774",
+        "sheet_title": "20CEST",
+        "img_blank": "fix_20_blank.jpg",
+        "img_done": "fix_20_results.jpg",
+        "font": "open_sans_white/MEWRO_i1eSwTCajV77NtVuVW.ttf.fnt",
+        "text_0": "__**Results of FIX eSports Open Scrim**__ <:emoji_2:902714307865886750>\n",
+        "text_1": "\n<a:trophee:1008465401665036358> **",
+        "text_2": "**\n<a:002_second2:1008465516089843742> **",
+        "text_3": "**\n<a:3place:1008465561132474458> **",
+        "text_4": "**\n\n*Let us know what you think about the scrim😊\n<:arrow_black:1007669116586442934> <#938687813770153994>\n <@&923385211029430365>"
+      },
+      "slots": [
+        {
+          "teamName": "ShowYourXyz",
+          "teamTag": "syx",
+          "teamManager": "<@653195806060314654>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "4hp",
+          "teamTag": "4hp",
+          "teamManager": "<@777582272948731904>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Vipёr Łёgёnds",
+          "teamTag": "VŁ×",
+          "teamManager": "<@840931110430834708>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "4EVILL",
+          "teamTag": "4Ex",
+          "teamManager": "<@388427196248621066>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Fariña Family ",
+          "teamTag": "FF",
+          "teamManager": "<@866433823403540510>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Young Guns Elite ",
+          "teamTag": "YG",
+          "teamManager": "<@895734461080166491>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "destructio protocol",
+          "teamTag": "dp ",
+          "teamManager": "<@937016875345412156>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Dark Matter Vendetta",
+          "teamTag": "dmv",
+          "teamManager": "<@887711185854677033>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "madness",
+          "teamTag": "mad ",
+          "teamManager": "<@626821429706489857>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "OveR Esports ",
+          "teamTag": "ÖvęR๛",
+          "teamManager": "<@983350735829876766>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Zeus Af Esports",
+          "teamTag": "zeus",
+          "teamManager": "<@868962001827794964>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "KDK SQWAD",
+          "teamTag": "KDK",
+          "teamManager": "<@599369861260640306>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "SickNation",
+          "teamTag": "sn",
+          "teamManager": "<@404103731240763413>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Old School",
+          "teamTag": "old",
+          "teamManager": "<@875325401105321994>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Real021 eSports ",
+          "teamTag": "RLx",
+          "teamManager": "<@701796759864606820>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "The Snipers rev ",
+          "teamTag": "snp",
+          "teamManager": "<@301668578552446976>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "insツVENGEANCE",
+          "teamTag": "Insaneツ",
+          "teamManager": "<@917490084796829776>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "JSO ESPORTS",
+          "teamTag": "jso",
+          "teamManager": "<@471600604683173888>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Xenocide",
+          "teamTag": "xc",
+          "teamManager": "<@716253653694152704>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "SILVER ESPORTS",
+          "teamTag": "SVRx",
+          "teamManager": "<@940044610724573187>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "7BL",
+          "teamTag": "7BL",
+          "teamManager": "<@829115415904780348>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "VIP",
+          "teamTag": "VIP",
+          "teamManager": "",
+          "confirm": ""
+        }
+      ],
+      "schedules": {
+        "clear_all": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 5,
+          "minute": 0
+        },
+        "open_early_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 12,
+          "minute": 0
+        },
+        "open_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 0
+        },
+        "open_confirmations": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 0
+        },
+        "remove_unconfirmed": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 18,
+          "minute": 10
+        },
+        "close_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 18,
+          "minute": 0
+        },
+        "open_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 30
+        },
+        "close_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 40
+        }
+      }
+    }
+  ]
+}

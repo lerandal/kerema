@@ -1,0 +1,302 @@
+{
+  "ID": "RAT",
+  "link_results": "https://docs.google.com/spreadsheets/d/1SWxK-92ZYPi_3vuXSa0CaQyPJsTkB814BJFjjtWQYS4/edit#gid=0",
+  "link_docs": "https://rat-development.notion.site/Documentation-8b27a147ddf5429080e0a47d47e5caad",
+  "role_BotAdmin": "Bot Admin",
+  "channel_Logs": "935114201431695411",
+  "reaction_correct": "951187515346387075",
+  "reaction_incorrect": "951534149603319808",
+  "reaction_waitlist": "943088105144074310",
+  "reaction_banned": "943088105144074310",
+  "scrims": [
+    {
+      "server_code": "RAT",
+      "channel_Registrations": "934865060080279562",
+      "channel_Confirmations": "934865530437918770",
+      "channel_IDPW": "984178431694626946",
+      "channel_Waitlist": "934865609831903283",
+      "channel_Chat": "984186194277568522",
+      "role_Registrations": "20CEST SCRIM",
+      "role_Vip_1": "20CEST VIP",
+      "role_Vip_2": "",
+      "role_Vip_3": "",
+      "role_Vip_4": "",
+      "role_Waitlist": "20CEST Waitlist",
+      "role_IDPW": "20CEST IDPW",
+      "role_Banned": "20CEST BAN",
+      "text_early_regs": "Registration is now open for:\n<@&985576265832615976>\n<@&985576333386080256>\n<@&985576411844722688>\n<@&985576462914572338>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_open_regs": "Registration is now open for <@&892502201526812742>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_regs": "Registrations are closed now!",
+      "text_open_waitlist": "<@&894606265555243048> Waitlist is open!\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_waitlist": "Waitlist is closed!",
+      "text_confirmation": "<@&955462103760789515> Please confirm or cancel until 19:00!",
+      "text_slots": "__**SYN OPEN SCRIM**__\n\n🕗 Time: 20:00CEST\n🏞️ Maps: Erangel, Miramar, Sanhok, Erangel\n\n",
+      "text_free_slots": "__**20PM CEST OPEN**__ scrim",
+      "text_dm_confirmation": "Rat's 20 CEST scrims.",
+      "msg_Waitlist": "1009998066947989514",
+      "msg_Slots": "1009998030679847034",
+      "msg_IDPW": "1009998031053148231",
+      "msg_Confirmation": "1001865191010611340",
+      "is_open_Registrations": false,
+      "is_open_Waitlist": true,
+      "just_unconfirm": false,
+      "allowed_multiple_tags": true,
+      "number_of_teams": 1,
+      "max_number_of_teams": 20,
+      "number_first_slot": 3,
+      "number_of_VIP_slots": 1,
+      "remove_unconfirmed": true,
+      "activate_schedules": true,
+      "activate_results": true,
+      "results": {
+        "name": "Saiyans Army Scrims",
+        "link_code": "1SWxK-92ZYPi_3vuXSa0CaQyPJsTkB814BJFjjtWQYS4",
+        "format": "syn-format",
+        "channel_Results": "1003653040030613524",
+        "sheet_title": "Syn 20CEST",
+        "img_blank": "syn_20CEST_blank.png",
+        "img_done": "syn_20CEST_results.png",
+        "font": "qarmic_sans/_6OxQeMsMusePR5enFWktche.ttf.fnt",
+        "text_0": "__**SAIYANS ARMY OPEN SCRIM**__\n\n",
+        "text_1": "\n<:_award_first:942156427185758269> *",
+        "text_2": "*\n<:_award_second:942156485776003092> *",
+        "text_3": "*\n<:_award_third:942156542403297330> *",
+        "text_4": "*\n\n***Thank you all for participating!***\n***Give us feedback in***\n\n"
+      },
+      "slots": [
+        {
+          "teamName": "adas",
+          "teamTag": "fas",
+          "teamManager": "<@710618029100367994>",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "VIP",
+          "teamTag": "VIP",
+          "teamManager": "",
+          "confirm": ""
+        }
+      ],
+      "schedules": {
+        "clear_all": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 3,
+          "minute": 45
+        },
+        "open_early_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 0
+        },
+        "open_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 16,
+          "minute": 0
+        },
+        "open_confirmations": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 1
+        },
+        "remove_unconfirmed": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 0
+        },
+        "close_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 10
+        },
+        "open_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 15
+        },
+        "close_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 21,
+          "minute": 0
+        }
+      }
+    }
+  ]
+}

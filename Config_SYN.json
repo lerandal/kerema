@@ -1,0 +1,589 @@
+{
+  "ID": "SYN",
+  "role_BotAdmin": "Scrim Bot Admin",
+  "channel_Logs": "978442238784835594",
+  "reaction_correct": "880887887799926854",
+  "reaction_incorrect": "943075456708673556",
+  "reaction_waitlist": "943120254580690944",
+  "reaction_banned": "943078775929856020",
+  "scrims": [
+    {
+      "server_code": "SYN",
+      "channel_Registrations": "899561761391403051",
+      "channel_Confirmations": "940228849764028437",
+      "channel_IDPW": "940229186600173618",
+      "channel_Waitlist": "904441289259511858",
+      "channel_Chat": "859064737584775189",
+      "role_Registrations": "☀️┃ 20CEST OPEN SCRIM",
+      "role_Vip_1": "VIP 1 DAY",
+      "role_Vip_2": "VIP 3 DAYS",
+      "role_Vip_3": "VIP 7 DAYS",
+      "role_Vip_4": "VIP 14 DAYS",
+      "role_Waitlist": "☀️  ┃WAIT",
+      "role_IDPW": "☀️  ┃IDPW",
+      "role_Banned": "BANNED",
+      "text_early_regs": "Registration is now open for:\n<@&985576265832615976>\n<@&985576333386080256>\n<@&985576411844722688>\n<@&985576462914572338>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_open_regs": "Registration is now open for <@&892502201526812742>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_regs": "Registrations are closed now!",
+      "text_open_waitlist": "<@&894606265555243048> Waitlist is open!\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_waitlist": "Waitlist is closed!",
+      "text_confirmation": "<@&955462103760789515> Please confirm or cancel until 19:00!",
+      "text_slots": "__**SYN OPEN SCRIM**__\n\n🕗 Time: 20:00CEST\n🏞️ Maps: Erangel, Miramar, Sanhok, Erangel\n\n",
+      "text_free_slots": "__**20PM CEST OPEN**__ scrim",
+      "text_dm_confirmation": "**Saiyans Army (SYN) __20 CEST__ scrims.**",
+      "msg_Waitlist": "972833098695847987",
+      "msg_Slots": "976829200168267827",
+      "msg_IDPW": "972833019096338472",
+      "msg_Confirmation": "1009809140572504215",
+      "is_open_Registrations": false,
+      "is_open_Waitlist": true,
+      "just_unconfirm": false,
+      "allowed_multiple_tags": true,
+      "number_of_teams": 0,
+      "max_number_of_teams": 20,
+      "number_first_slot": 3,
+      "number_of_VIP_slots": 1,
+      "remove_unconfirmed": true,
+      "activate_schedules": true,
+      "activate_results": true,
+      "results": {
+        "name": "Saiyans Army Scrims",
+        "link_code": "1SWxK-92ZYPi_3vuXSa0CaQyPJsTkB814BJFjjtWQYS4",
+        "format": "syn-format",
+        "channel_Results": "858881186561654805",
+        "sheet_title": "Syn 20CEST",
+        "img_blank": "syn_20CEST_blank.png",
+        "img_done": "syn_20CEST_results.png",
+        "font": "qarmic_sans/_6OxQeMsMusePR5enFWktche.ttf.fnt",
+        "text_0": "__**SAIYANS ARMY OPEN SCRIM**__\n\n",
+        "text_1": "\n<:_award_first:942156427185758269> *",
+        "text_2": "*\n<:_award_second:942156485776003092> *",
+        "text_3": "*\n<:_award_third:942156542403297330> *",
+        "text_4": "*\n\n***Thank you all for participating!***\n***Give us feedback in*** <#914642891165544530>\n\n<@&940244851092521020>"
+      },
+      "slots": [
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "VIP",
+          "teamTag": "VIP",
+          "teamManager": "",
+          "confirm": ""
+        }
+      ],
+      "schedules": {
+        "clear_all": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 23,
+          "minute": 55
+        },
+        "open_early_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 0
+        },
+        "open_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 16,
+          "minute": 0
+        },
+        "open_confirmations": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 1
+        },
+        "remove_unconfirmed": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 0
+        },
+        "close_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 10
+        },
+        "open_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 15
+        },
+        "close_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 21,
+          "minute": 0
+        }
+      }
+    },
+    {
+      "server_code": "SYN",
+      "channel_Registrations": "940217131927236678",
+      "channel_Confirmations": "940232283024158760",
+      "channel_IDPW": "940232313684516884",
+      "channel_Waitlist": "940232204691337216",
+      "channel_Chat": "859064737584775189",
+      "role_Registrations": "🌘┃ 23CEST LATE NIGHT",
+      "role_Vip_1": "VIP 1 DAY",
+      "role_Vip_2": "VIP 3 DAYS",
+      "role_Vip_3": "VIP 7 DAYS",
+      "role_Vip_4": "VIP 14 DAYS",
+      "role_Waitlist": "🌘  ┃WAIT",
+      "role_IDPW": "🌘  ┃IDPW",
+      "role_Banned": "BANNED",
+      "text_early_regs": "Registration is now open for:\n<@&985576265832615976>\n<@&985576333386080256>\n<@&985576411844722688>\n<@&985576462914572338>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_open_regs": "Registration is now open for <@&940244851092521020>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_regs": "Registrations are closed now!",
+      "text_open_waitlist": "<@&940244948228378624> Waitlist is open!\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_waitlist": "Waitlist is closed!",
+      "text_confirmation": "<@&940244753725939732> Please confirm or cancel until 22:00!",
+      "text_slots": "__**SYN LATE NIGHT SCRIM**__\n\n🕗 Time: 23:00CEST\n🏞️ Maps: Erangel, Miramar, Sanhok, Erangel\n\n",
+      "text_free_slots": "__**23PM CEST LATE NIGHT**__ scrim",
+      "text_dm_confirmation": "**Saiyans Army (SYN) __23 CEST__ scrims.**",
+      "msg_Waitlist": "991678835642867752",
+      "msg_Slots": "991678857172234351",
+      "msg_IDPW": "991678876667359262",
+      "msg_Confirmation": "1009809140337623193",
+      "is_open_Registrations": false,
+      "is_open_Waitlist": true,
+      "just_unconfirm": false,
+      "allowed_multiple_tags": true,
+      "number_of_teams": 20,
+      "max_number_of_teams": 20,
+      "number_first_slot": 3,
+      "number_of_VIP_slots": 1,
+      "remove_unconfirmed": true,
+      "activate_schedules": true,
+      "activate_results": true,
+      "results": {
+        "name": "Saiyans Army Scrims",
+        "link_code": "1SWxK-92ZYPi_3vuXSa0CaQyPJsTkB814BJFjjtWQYS4",
+        "format": "syn-format",
+        "channel_Results": "858881186561654805",
+        "sheet_title": "Syn 23CEST",
+        "img_blank": "syn_23CEST_blank.png",
+        "img_done": "syn_23CEST_results.png",
+        "font": "qarmic_sans/_6OxQeMsMusePR5enFWktche.ttf.fnt",
+        "text_0": "__**SAIYANS ARMY LATE NIGHT SCRIM**__\n\n",
+        "text_1": "\n<:_award_first:942156427185758269> *",
+        "text_2": "*\n<:_award_second:942156485776003092> *",
+        "text_3": "*\n<:_award_third:942156542403297330> *",
+        "text_4": "*\n\n***Thank you all for participating!***\n***Give us feedback in*** <#914642891165544530>\n\n<@&940244851092521020>"
+      },
+      "slots": [
+        {
+          "teamName": "ELEVADOR eSports",
+          "teamTag": "EVx",
+          "teamManager": "<@750308786295537685>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Under Your Skins",
+          "teamTag": "under",
+          "teamManager": "<@1008464352413765672>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Æsir Æsians",
+          "teamTag": "【Æ】",
+          "teamManager": "<@284303474802425857>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Saiyans Army 420",
+          "teamTag": "syn",
+          "teamManager": "<@979678274789707806>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "BULLS eSPORTS",
+          "teamTag": "be ",
+          "teamManager": "<@616786071551737868>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Play to Win",
+          "teamTag": "PTW",
+          "teamManager": "<@881139865570377738>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "9 BROTHERS",
+          "teamTag": "9bro",
+          "teamManager": "<@812172355257892885>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "AT99",
+          "teamTag": "AT",
+          "teamManager": "<@962142592798171146>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "No Level Gaming ",
+          "teamTag": "Nlg",
+          "teamManager": "<@775401185459830785>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "VENOM 2",
+          "teamTag": "๛ VNM",
+          "teamManager": "<@772228281973604413>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "ONE LAST CHANCE ",
+          "teamTag": "1lc",
+          "teamManager": "<@919354649138561065>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "UnsEsports",
+          "teamTag": "uns",
+          "teamManager": "<@846752202096771122>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Paradox Lithuania",
+          "teamTag": "pdx",
+          "teamManager": "<@871785003250511902>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "4 Upo cempers",
+          "teamTag": "CMT",
+          "teamManager": "<@823959899955527752>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Chosen One Red ",
+          "teamTag": "C1x",
+          "teamManager": "<@699882053335908403>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Theheavs ",
+          "teamTag": "Hvs",
+          "teamManager": "<@397426063506145291>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "7starESPORTs",
+          "teamTag": "7star",
+          "teamManager": "<@996053775343161415>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "NEW LORDS E-sports",
+          "teamTag": "new",
+          "teamManager": "<@958748736807370803>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Rs Bratva ",
+          "teamTag": "rs ",
+          "teamManager": "<@861195047641677846>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "Team RIOT ",
+          "teamTag": "ʀioт",
+          "teamManager": "<@579267637398339595>",
+          "confirm": "y"
+        },
+        {
+          "teamName": "5th Element ",
+          "teamTag": "5th ",
+          "teamManager": "<@919260216535707698>",
+          "confirm": "y"
+        }
+      ],
+      "schedules": {
+        "clear_all": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 3,
+          "minute": 0
+        },
+        "open_early_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 0
+        },
+        "open_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 17,
+          "minute": 0
+        },
+        "open_confirmations": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 1
+        },
+        "remove_unconfirmed": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 22,
+          "minute": 0
+        },
+        "close_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 22,
+          "minute": 10
+        },
+        "open_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 22,
+          "minute": 15
+        },
+        "close_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 22,
+          "minute": 55
+        }
+      }
+    }
+  ]
+}

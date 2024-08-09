@@ -1,0 +1,300 @@
+{
+  "ID": "FEINTED",
+  "role_BotAdmin": "Rat Bot Admin",
+  "channel_Logs": "1003353925342216413",
+  "reaction_correct": "998594232958853233",
+  "reaction_incorrect": "998594297471442944",
+  "reaction_waitlist": "837689832288944168",
+  "reaction_banned": "849280719401648168",
+  "scrims": [
+    {
+      "server_code": "FEINTED",
+      "channel_Registrations": "820933117153509386",
+      "channel_Confirmations": "832293618742984824",
+      "channel_IDPW": "1003354067738828830",
+      "channel_Waitlist": "835561649179066409",
+      "channel_Chat": "855491423099682827",
+      "role_Registrations": "Community",
+      "role_Vip_1": "VIP + 1",
+      "role_Vip_2": "VIP + 2",
+      "role_Vip_3": "VIP + 3",
+      "role_Vip_4": "VVIP",
+      "role_Waitlist": "22:00 Waitlist",
+      "role_IDPW": "Team Captain 22:00 Lobby A",
+      "role_Banned": "BAN 22:00 SAST",
+      "text_early_regs": "Registration is now open for:<@&958643549786734643>\n<@&862724455961067540>\n<@&960835872457101322>\n<@&968502826395377765>\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_open_regs": "Registration is now open for <@&824917529151012955>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_regs": "Registrations are closed now!",
+      "text_open_waitlist": "<@&839475424488587285> Waitlist is open!\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_waitlist": "Waitlist is closed!",
+      "text_confirmation": "<@&927649810289422437> Please confirm or cancel until 21:00SAST!",
+      "text_slots": "__**METACRYSTAL LATE NIGHT SCRIMS**__\n\n",
+      "text_free_slots": "__**METACRYSTAL LATE NIGHT**__ scrim",
+      "text_dm_confirmation": "**METACRYSTAL LATE NIGHT scrims.**",
+      "msg_Waitlist": "1006580116807241899",
+      "msg_Slots": "1003441912067403786",
+      "msg_IDPW": "1003357862468272198",
+      "msg_Confirmation": "1009797563936948364",
+      "is_open_Registrations": true,
+      "is_open_Waitlist": false,
+      "just_unconfirm": false,
+      "allowed_multiple_tags": true,
+      "number_of_teams": 0,
+      "max_number_of_teams": 19,
+      "number_first_slot": 5,
+      "number_of_VIP_slots": 2,
+      "remove_unconfirmed": false,
+      "activate_schedules": true,
+      "activate_results": true,
+      "results": {
+        "name": "FEINTED Scrims",
+        "link_code": "1zo7KzY0DmpIEDqae2PSk25Iw98rKemZNjXwN7nTs8-A",
+        "format": "scrim-manager",
+        "channel_Results": "926394740541386762",
+        "sheet_title": "10PM",
+        "img_blank": "feinted_10PM_blank.png",
+        "img_done": "feinted_10PM_results.png",
+        "font": "open_sans_white/MEWRO_i1eSwTCajV77NtVuVW.ttf.fnt",
+        "text_0": "__**METACRYSTAL LATE NIGHT SCRIMS**__\n\n",
+        "text_1": "\n🏆 *",
+        "text_2": "*\n🥈 *",
+        "text_3": "*\n🥉 *",
+        "text_4": "*\n\n*GGs to all teams that participated* 🔥\n <@&824917529151012955>"
+      },
+      "slots": [
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "VIP",
+          "teamTag": "VIP",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "VIP",
+          "teamTag": "VIP",
+          "teamManager": "",
+          "confirm": ""
+        }
+      ],
+      "schedules": {
+        "clear_all": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 1,
+          "minute": 28
+        },
+        "open_early_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 1,
+          "minute": 30
+        },
+        "open_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 14,
+          "minute": 0
+        },
+        "open_confirmations": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 14,
+          "minute": 15
+        },
+        "remove_unconfirmed": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 20,
+          "minute": 59
+        },
+        "close_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 20,
+          "minute": 59
+        },
+        "open_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 21,
+          "minute": 0
+        },
+        "close_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 21,
+          "minute": 10
+        }
+      }
+    }
+  ]
+}

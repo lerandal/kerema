@@ -1,0 +1,1404 @@
+{
+  "ID": "ILL_GREEN",
+  "role_BotAdmin": "Scrim Bot Admin",
+  "channel_Logs": "983497424536469585",
+  "reaction_correct": "967225242432983090",
+  "reaction_incorrect": "901262614401798165",
+  "reaction_waitlist": "967182833951047830",
+  "reaction_banned": "835837743044100147",
+  "scrims": [
+    {
+      "server_code": "ILL_GREEN",
+      "channel_Registrations": "892115146271494156",
+      "channel_Confirmations": "892115453240033301",
+      "channel_IDPW": "892115585318653962",
+      "channel_Waitlist": "892115678511923240",
+      "channel_Chat": "892114900682407996",
+      "role_Registrations": "20:00 CEST SCRIM",
+      "role_Vip_1": "8pm FAST TRACK LVL 1",
+      "role_Vip_2": "8pm FAST TRACK LVL 2",
+      "role_Vip_3": "8pm FAST TRACK LVL 3",
+      "role_Vip_4": "vip ulaz",
+      "role_Waitlist": "WAITLIST 20CEST",
+      "role_IDPW": "ID/PW 20 CET A",
+      "role_Banned": "BAN🚫",
+      "text_early_regs": "Registration is now open for <@&896099155833933834> <@&896099257478692885> <@&896099340064550954> <@&894873038531739709>  \n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_open_regs": "Registration is now open for <@&894948145052647526> \n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_regs": "Registrations are closed now!",
+      "text_open_waitlist": "<@&892124824179183666> Waitlist is open!\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_waitlist": "Waitlist is closed!",
+      "text_confirmation": "<@&892115748271554610> Please cancel until 19:30!",
+      "text_slots": "<:illegaly:855093957566136340> **__ILLEGALY 20 CEST SCRIM__** <:illegaly:855093957566136340>\n\n",
+      "text_free_slots": "__**20PM CEST OPEN**__ scrim",
+      "text_dm_confirmation": "**Illegaly Gaming __20 CEST__ scrims.**",
+      "msg_Waitlist": "1003049485309591612",
+      "msg_Slots": "1003047309384372264",
+      "msg_IDPW": "1003047319966584923",
+      "msg_Confirmation": "988435554502860900",
+      "is_open_Registrations": false,
+      "is_open_Waitlist": true,
+      "just_unconfirm": true,
+      "allowed_multiple_tags": false,
+      "number_of_teams": 18,
+      "max_number_of_teams": 18,
+      "number_first_slot": 3,
+      "number_of_VIP_slots": 2,
+      "remove_unconfirmed": false,
+      "activate_schedules": true,
+      "activate_results": true,
+      "results": {
+        "name": "ILL GREEN 20PM Scrims",
+        "link_code": "11j0RUEEw-QSJRvvX2nnQoL99wzQIZrh0QG8534p_36c",
+        "format": "scrim-manager",
+        "channel_Results": "892114749028978768",
+        "sheet_title": "20CEST",
+        "img_blank": "ILL_Green_20_blank.png",
+        "img_done": "ILL_Green_20_results.png",
+        "font": "open_sans_white/MEWRO_i1eSwTCajV77NtVuVW.ttf.fnt",
+        "text_0": "<:illegaly:855093957566136340> **__ILLEGALY 20 CEST SCRIM RESULTS __**<:illegaly:855093957566136340>\n",
+        "text_1": "\n<a:1cup:868371850533699604> **",
+        "text_2": "**\n<a:2cup:868371886306893854> **",
+        "text_3": "**\n<a:3cup:868371918833713172> **",
+        "text_4": "**\n\n**tag us on Instagram for a chance to be reposted** https://www.instagram.com/illegaly_gaming/ \n\n**proceed to <#882341217084514385> if you enjoyed!**\n\n<:illegaly:855093957566136340> **Thank you for participating and see you next time!**\n<:illegaly:855093957566136340> <@&894948145052647526>"
+      },
+      "slots": [
+        {
+          "teamName": "overpower",
+          "teamTag": "ovp",
+          "teamManager": "<@829409476137189407>",
+          "confirm": ""
+        },
+        {
+          "teamName": "1v89TEAM",
+          "teamTag": "1v99",
+          "teamManager": "<@846803766233399346>",
+          "confirm": ""
+        },
+        {
+          "teamName": "FUT CHAMPS",
+          "teamTag": "FUT",
+          "teamManager": "<@430633213249978368>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Omega Punch Clan ",
+          "teamTag": "SK",
+          "teamManager": "<@909429232235593739>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Wasted",
+          "teamTag": "wasted ",
+          "teamManager": "<@448879930282082304>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Four From Hell",
+          "teamTag": "FFH",
+          "teamManager": "<@715944707905290310>",
+          "confirm": ""
+        },
+        {
+          "teamName": "RS FAIRY",
+          "teamTag": "RS",
+          "teamManager": "<@805397305782960149>",
+          "confirm": ""
+        },
+        {
+          "teamName": "IDA team",
+          "teamTag": "IDA",
+          "teamManager": "<@1009146130967310406>",
+          "confirm": ""
+        },
+        {
+          "teamName": "New Generation Esport ",
+          "teamTag": "gen",
+          "teamManager": "<@546494221889175605>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Elimination 16",
+          "teamTag": "E16",
+          "teamManager": "<@980171174665400341>",
+          "confirm": ""
+        },
+        {
+          "teamName": "One Last",
+          "teamTag": "1st",
+          "teamManager": "<@845624686884028417>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Creation",
+          "teamTag": "cre",
+          "teamManager": "<@530203270036062240>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Active Gaming",
+          "teamTag": "act",
+          "teamManager": "<@436285906392186881>",
+          "confirm": ""
+        },
+        {
+          "teamName": "YFO eSports",
+          "teamTag": "YFO",
+          "teamManager": "<@561510389934981140>",
+          "confirm": ""
+        },
+        {
+          "teamName": "HELLFIRE",
+          "teamTag": "HLF",
+          "teamManager": "<@707136775998668831>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Xala snipar",
+          "teamTag": "XS",
+          "teamManager": "<@997912556054270082>",
+          "confirm": ""
+        },
+        {
+          "teamName": "M14ICE",
+          "teamTag": "M14",
+          "teamManager": "<@1009103416225706026>",
+          "confirm": ""
+        },
+        {
+          "teamName": "ÈXITO'SOA",
+          "teamTag": "ÈXITO",
+          "teamManager": "<@750241279727763476>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Extremists ",
+          "teamTag": "X ",
+          "teamManager": "<@714746261684748348>",
+          "confirm": ""
+        },
+        {
+          "teamName": "BTesport",
+          "teamTag": "BT",
+          "teamManager": "<@852228415876104252>",
+          "confirm": ""
+        }
+      ],
+      "schedules": {
+        "clear_all": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 9,
+          "minute": 30
+        },
+        "open_early_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 10,
+          "minute": 0
+        },
+        "open_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 0
+        },
+        "open_confirmations": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 30
+        },
+        "remove_unconfirmed": {
+          "dayOfWeek": [],
+          "hour": "",
+          "minute": ""
+        },
+        "close_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 28
+        },
+        "open_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 30
+        },
+        "close_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 35
+        }
+      }
+    },
+    {
+      "server_code": "ILL_GREEN",
+      "channel_Registrations": "878932370319888384",
+      "channel_Confirmations": "863950710448848957",
+      "channel_IDPW": "863950865090347038",
+      "channel_Waitlist": "864114211679109120",
+      "channel_Chat": "863950592531496970",
+      "role_Registrations": "AFTERNOON SCRIM",
+      "role_Vip_1": "AFTERNOON FAST TRACK LVL 1",
+      "role_Vip_2": "AFTERNOON FAST TRACK LVL 2",
+      "role_Vip_3": "AFTERNOON FAST TRACK LVL 3",
+      "role_Vip_4": "vip ulaz",
+      "role_Waitlist": "WAITLIST AFTERNOON",
+      "role_IDPW": "ID/PW 16:00 CET A",
+      "role_Banned": "BAN🚫",
+      "text_early_regs": "Registration is now open for \n<@&896098612176646174>\n<@&896098848294977558>\n<@&896099011583414303>\n<@&894873038531739709>  \n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_open_regs": "Registration is now open for <@&894948018346926121> \n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_regs": "Registrations are closed now!",
+      "text_open_waitlist": "<@&864114278918258728> Waitlist is open!\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_waitlist": "Waitlist is closed!",
+      "text_confirmation": "<@&843768803074637854> Please cancel until 19:30!",
+      "text_slots": "<:illegaly:855093957566136340> **__ILLEGALY 16 CEST SCRIM__** <:illegaly:855093957566136340>\n\n",
+      "text_free_slots": "__**16PM CEST OPEN**__ scrim",
+      "text_dm_confirmation": "**Illegaly Gaming __16 CEST__ scrims.**",
+      "msg_Waitlist": "1003049745935249579",
+      "msg_Slots": "1003047233194827837",
+      "msg_IDPW": "1003047261686743060",
+      "msg_Confirmation": "988543465145106523",
+      "is_open_Registrations": false,
+      "is_open_Waitlist": true,
+      "just_unconfirm": true,
+      "allowed_multiple_tags": false,
+      "number_of_teams": 18,
+      "max_number_of_teams": 18,
+      "number_first_slot": 3,
+      "number_of_VIP_slots": 2,
+      "remove_unconfirmed": false,
+      "activate_schedules": true,
+      "activate_results": true,
+      "results": {
+        "name": "ILL GREEN 16PM Scrims",
+        "link_code": "11j0RUEEw-QSJRvvX2nnQoL99wzQIZrh0QG8534p_36c",
+        "format": "scrim-manager",
+        "channel_Results": "864556589863272478",
+        "sheet_title": "16CEST",
+        "img_blank": "ILL_Green_16_blank.png",
+        "img_done": "ILL_Green_16_results.png",
+        "font": "open_sans_white/MEWRO_i1eSwTCajV77NtVuVW.ttf.fnt",
+        "text_0": "<:illegaly:855093957566136340> **__ILLEGALY 16 CEST SCRIM RESULTS __**<:illegaly:855093957566136340>\n",
+        "text_1": "\n<a:1cup:868371850533699604> **",
+        "text_2": "**\n<a:2cup:868371886306893854> **",
+        "text_3": "**\n<a:3cup:868371918833713172> **",
+        "text_4": "**\n\n**tag us on Instagram for a chance to be reposted** https://www.instagram.com/illegaly_gaming/ \n\n**proceed to <#882341217084514385> if you enjoyed!**\n\n<:illegaly:855093957566136340> **Thank you for participating and see you next time!**\n<:illegaly:855093957566136340> <@&894948018346926121>"
+      },
+      "slots": [
+        {
+          "teamName": "AMIGOS",
+          "teamTag": "am",
+          "teamManager": "<@853668418007728148>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Brothers gaming",
+          "teamTag": "Bro",
+          "teamManager": "<@1009029272884756540>",
+          "confirm": ""
+        },
+        {
+          "teamName": "IcedOut Girls",
+          "teamTag": "ice",
+          "teamManager": "<@693758781087154186>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Elimination 16",
+          "teamTag": "E16",
+          "teamManager": "<@980171174665400341>",
+          "confirm": ""
+        },
+        {
+          "teamName": "4RIVALS",
+          "teamTag": "4RVL",
+          "teamManager": "<@891020377801764935>",
+          "confirm": ""
+        },
+        {
+          "teamName": "BTesport",
+          "teamTag": "BT",
+          "teamManager": "<@852228415876104252>",
+          "confirm": ""
+        },
+        {
+          "teamName": "03 clan",
+          "teamTag": "03",
+          "teamManager": "<@882996239061368872>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Just Ghouls",
+          "teamTag": "JG",
+          "teamManager": "<@419564958511267861>",
+          "confirm": ""
+        },
+        {
+          "teamName": "RS Bratva ",
+          "teamTag": "RS ",
+          "teamManager": "<@861195047641677846>",
+          "confirm": ""
+        },
+        {
+          "teamName": "PUT-IN ESPORT",
+          "teamTag": "Px",
+          "teamManager": "<@813110492049965075>",
+          "confirm": ""
+        },
+        {
+          "teamName": "IDA team",
+          "teamTag": "IDA",
+          "teamManager": "<@1009146130967310406>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Tuna eSports",
+          "teamTag": "TNA",
+          "teamManager": "<@510506510992932865>",
+          "confirm": ""
+        },
+        {
+          "teamName": "5th Elements ",
+          "teamTag": "5th",
+          "teamManager": "<@919260216535707698>",
+          "confirm": ""
+        },
+        {
+          "teamName": "DYN YYDS",
+          "teamTag": "DRx",
+          "teamManager": "<@733632854197796904>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Bro Es",
+          "teamTag": "bro",
+          "teamManager": "<@1007793949999628420>",
+          "confirm": ""
+        },
+        {
+          "teamName": "wolves",
+          "teamTag": "wolves",
+          "teamManager": "<@894440990709014588>",
+          "confirm": ""
+        },
+        {
+          "teamName": "OveR Esports ",
+          "teamTag": "ÖvęR๛",
+          "teamManager": "<@983350735829876766>",
+          "confirm": ""
+        },
+        {
+          "teamName": "c4Bomb ",
+          "teamTag": "c4",
+          "teamManager": "<@767766116704583720>",
+          "confirm": ""
+        },
+        {
+          "teamName": "New Order E-Sport",
+          "teamTag": "nwo",
+          "teamManager": "<@244676426769367054>",
+          "confirm": ""
+        },
+        {
+          "teamName": "AORUS esports",
+          "teamTag": "aor",
+          "teamManager": "<@764969108957429811>",
+          "confirm": ""
+        }
+      ],
+      "schedules": {
+        "clear_all": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 3,
+          "minute": 50
+        },
+        "open_early_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 4,
+          "minute": 0
+        },
+        "open_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 12,
+          "minute": 0
+        },
+        "open_confirmations": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 12,
+          "minute": 30
+        },
+        "remove_unconfirmed": {
+          "dayOfWeek": [],
+          "hour": "",
+          "minute": ""
+        },
+        "close_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 28
+        },
+        "open_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 30
+        },
+        "close_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 35
+        }
+      }
+    },
+    {
+      "server_code": "ILL_GREEN",
+      "channel_Registrations": "987316343986610216",
+      "channel_Confirmations": "987317139390230568",
+      "channel_IDPW": "987317267249369098",
+      "channel_Waitlist": "987317336031772672",
+      "channel_Chat": "987316240999645184",
+      "role_Registrations": "DUO SCRIM",
+      "role_Vip_1": "vip ulaz",
+      "role_Vip_2": "",
+      "role_Vip_3": "",
+      "role_Vip_4": "",
+      "role_Waitlist": "DUO WAITLIST",
+      "role_IDPW": "DUO ID/PW",
+      "role_Banned": "BAN🚫",
+      "text_early_regs": "Registration is now open for <@&894873038531739709>  \n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:\nP1:\nP2:",
+      "text_open_regs": "Registration is now open for <@&987309511930941481> \n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:\nP1:\nP2:",
+      "text_lock_regs": "Registrations are closed now!",
+      "text_open_waitlist": "<@&1002620730250371082> Waitlist is open!\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_waitlist": "Waitlist is closed!",
+      "text_confirmation": "<@&987669088685928498> Please cancel until 17:30!",
+      "text_slots": "<:illegaly:855093957566136340> **__ILLEGALY DUO SCRIM__** <:illegaly:855093957566136340>\n\n",
+      "text_free_slots": "__**18:00CESTDUO**__ scrim",
+      "text_dm_confirmation": "**Illegaly Gaming __18:00 CEST DUO__ scrims.**",
+      "msg_Waitlist": "1002618146483601469",
+      "msg_Slots": "1002618053412003951",
+      "msg_IDPW": "1002618102346940458",
+      "msg_Confirmation": "",
+      "is_open_Registrations": false,
+      "is_open_Waitlist": false,
+      "just_unconfirm": true,
+      "allowed_multiple_tags": true,
+      "number_of_teams": 25,
+      "max_number_of_teams": 30,
+      "number_first_slot": 3,
+      "number_of_VIP_slots": 0,
+      "remove_unconfirmed": false,
+      "activate_schedules": true,
+      "activate_results": false,
+      "results": {
+        "name": "ILL GREEN Scrims",
+        "link_code": "",
+        "format": "scrim-manager",
+        "channel_Results": "",
+        "sheet_title": "",
+        "img_blank": "",
+        "img_done": "",
+        "font": "open_sans/eijQQrVQvVAIoRSFfGxSvU_c.ttf.fnt",
+        "text_0": "__**name**__\n\n",
+        "text_1": "\n🏆 *",
+        "text_2": "*\n🥈 *",
+        "text_3": "*\n🥉 *",
+        "text_4": "*\n\n*GGs to all teams that participated* 🔥\n @"
+      },
+      "slots": [
+        {
+          "teamName": "POHOĎÁCI team",
+          "teamTag": "PHD",
+          "teamManager": "<@919334092535922690>",
+          "confirm": ""
+        },
+        {
+          "teamName": "JDC team",
+          "teamTag": "Jdc",
+          "teamManager": "<@915991542806741022>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Nak team ",
+          "teamTag": "Nak",
+          "teamManager": "<@1006852814674333766>",
+          "confirm": ""
+        },
+        {
+          "teamName": "2 karamele",
+          "teamTag": "fix",
+          "teamManager": "<@895066746782900235>",
+          "confirm": ""
+        },
+        {
+          "teamName": "best duo",
+          "teamTag": "last",
+          "teamManager": "<@546008274193874953>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Las Quillas",
+          "teamTag": "L7",
+          "teamManager": "<@592732091628781574>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Jamit",
+          "teamTag": "HAJOON",
+          "teamManager": "<@478569273803931668>",
+          "confirm": ""
+        },
+        {
+          "teamName": "urboys",
+          "teamTag": "urboy",
+          "teamManager": "<@798124076190138431>",
+          "confirm": ""
+        },
+        {
+          "teamName": "NERD's eSports ",
+          "teamTag": "nerd",
+          "teamManager": "<@842848369352900628>",
+          "confirm": ""
+        },
+        {
+          "teamName": "TryToBeLikeUs",
+          "teamTag": "TryToBe",
+          "teamManager": "<@760762092314820608>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Vajco",
+          "teamTag": "unp",
+          "teamManager": "<@998971755806867577>",
+          "confirm": ""
+        },
+        {
+          "teamName": "F&H bots",
+          "teamTag": "die",
+          "teamManager": "<@951832638614802433>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Tomica bog ",
+          "teamTag": "44",
+          "teamManager": "<@517449974712107053>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Ebola eSports",
+          "teamTag": "EBS",
+          "teamManager": "<@571334985995517953>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Loz Botatos",
+          "teamTag": "Pa",
+          "teamManager": "<@645619900211265554>",
+          "confirm": ""
+        },
+        {
+          "teamName": "MadridCity",
+          "teamTag": "ss",
+          "teamManager": "<@944226016010858568>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Žiško ",
+          "teamTag": "1st",
+          "teamManager": "<@998971755806867577>",
+          "confirm": ""
+        },
+        {
+          "teamName": "HS NewEra",
+          "teamTag": "HS",
+          "teamManager": "<@938019932577333279>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Old TDM",
+          "teamTag": "Old",
+          "teamManager": "<@667365980254633986>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Dumb and dumber ",
+          "teamTag": "Zr/【Æ】",
+          "teamManager": "<@909429232235593739>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Harsh soldiers",
+          "teamTag": " HSL ",
+          "teamManager": "<@820720807000408105>",
+          "confirm": ""
+        },
+        {
+          "teamName": "FANATYK esport",
+          "teamTag": "ff",
+          "teamManager": "<@714506422515400735>",
+          "confirm": ""
+        },
+        {
+          "teamName": "03 esport",
+          "teamTag": "03",
+          "teamManager": "<@882996239061368872>",
+          "confirm": ""
+        },
+        {
+          "teamName": "solo zero",
+          "teamTag": "zero",
+          "teamManager": "<@457974373345787905>",
+          "confirm": ""
+        },
+        {
+          "teamName": "03 clan 2",
+          "teamTag": "03",
+          "teamManager": "<@882996239061368872>",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        }
+      ],
+      "schedules": {
+        "clear_all": {
+          "dayOfWeek": [
+            6
+          ],
+          "hour": 9,
+          "minute": 0
+        },
+        "open_early_regs": {
+          "dayOfWeek": [
+            6
+          ],
+          "hour": 10,
+          "minute": 0
+        },
+        "open_regs": {
+          "dayOfWeek": [
+            6
+          ],
+          "hour": 12,
+          "minute": 0
+        },
+        "open_confirmations": {
+          "dayOfWeek": [
+            6
+          ],
+          "hour": 15,
+          "minute": 30
+        },
+        "remove_unconfirmed": {
+          "dayOfWeek": [],
+          "hour": "",
+          "minute": ""
+        },
+        "close_regs": {
+          "dayOfWeek": [
+            6
+          ],
+          "hour": 17,
+          "minute": 28
+        },
+        "open_waitlist": {
+          "dayOfWeek": [
+            6
+          ],
+          "hour": 17,
+          "minute": 30
+        },
+        "close_waitlist": {
+          "dayOfWeek": [
+            6
+          ],
+          "hour": 17,
+          "minute": 35
+        }
+      }
+    },
+    {
+      "server_code": "ILL_GREEN",
+      "channel_Registrations": "914300101609005066",
+      "channel_Confirmations": "914299854124113950",
+      "channel_IDPW": "914299913783877663",
+      "channel_Waitlist": "914300440777207818",
+      "channel_Chat": "914299774281347122",
+      "role_Registrations": "2AM SCRIM",
+      "role_Vip_1": "vip ulaz",
+      "role_Vip_2": "2am FAST TRACK LVL 1",
+      "role_Vip_3": "2am FAST TRACK LVL 2",
+      "role_Vip_4": "2am FAST TRACK LVL 3",
+      "role_Waitlist": "WAITLIST 2AM",
+      "role_IDPW": "ID/PW 2AM",
+      "role_Banned": "PERM BAN",
+      "text_early_regs": "Registration is now open for \n<@&927219426300928133>\n<@&927219632639713320>\n<@&927219745533599754>\n<@&894873038531739709>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_open_regs": "Registration is now open for <@&914580201822912532> \n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_regs": "Registrations are closed now!",
+      "text_open_waitlist": "<@&907884298143662080> Waitlist is open!\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_waitlist": "Waitlist is closed!",
+      "text_confirmation": "<@&907884292481363968> Please cancel until 19:30!",
+      "text_slots": "<:illegaly:855093957566136340> **__ILLEGALY 2AM CEST SCRIM__** <:illegaly:855093957566136340>\n\n",
+      "text_free_slots": "__**2AM CEST OPEN**__ scrim",
+      "text_dm_confirmation": "**Illegaly Gaming __2AM CEST__ scrims.**",
+      "msg_Waitlist": "1004556604974309458",
+      "msg_Slots": "1004556536632324136",
+      "msg_IDPW": "1003443156198637598",
+      "msg_Confirmation": "",
+      "is_open_Registrations": false,
+      "is_open_Waitlist": true,
+      "just_unconfirm": true,
+      "allowed_multiple_tags": false,
+      "number_of_teams": 17,
+      "max_number_of_teams": 18,
+      "number_first_slot": 3,
+      "number_of_VIP_slots": 2,
+      "remove_unconfirmed": false,
+      "activate_schedules": true,
+      "activate_results": true,
+      "results": {
+        "name": "ILL GREEN 2AM Scrims",
+        "link_code": "11j0RUEEw-QSJRvvX2nnQoL99wzQIZrh0QG8534p_36c",
+        "format": "scrim-manager",
+        "channel_Results": "914300526282293319",
+        "sheet_title": "2AM",
+        "img_blank": "ILL_Green_2_blank.png",
+        "img_done": "ILL_Green_2_results.png",
+        "font": "open_sans_white/MEWRO_i1eSwTCajV77NtVuVW.ttf.fnt",
+        "text_0": "<:illegaly:855093957566136340> **__ILLEGALY 2 AM SCRIM RESULTS __**<:illegaly:855093957566136340>\n",
+        "text_1": "\n<a:1cup:868371850533699604> **",
+        "text_2": "**\n<a:2cup:868371886306893854> **",
+        "text_3": "**\n<a:3cup:868371918833713172> **",
+        "text_4": "**\n\n**tag us on Instagram for a chance to be reposted** https://www.instagram.com/illegaly_gaming/ \n\n**proceed to <#882341217084514385> if you enjoyed!**\n\n<:illegaly:855093957566136340> **Thank you for participating and see you next time!**\n<:illegaly:855093957566136340> <@&914580201822912532>"
+      },
+      "slots": [
+        {
+          "teamName": "ILLEGALY",
+          "teamTag": "iLL",
+          "teamManager": "<@986227600978509824>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Jokerz",
+          "teamTag": "Jкя〡",
+          "teamManager": "<@487516023730339880>",
+          "confirm": ""
+        },
+        {
+          "teamName": "ÈXITO'SOA",
+          "teamTag": "ÈXITO",
+          "teamManager": "<@750241279727763476>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Permaximum",
+          "teamTag": "pmx",
+          "teamManager": "<@933352623384436747>",
+          "confirm": ""
+        },
+        {
+          "teamName": "NERD's eSports ",
+          "teamTag": "nerd",
+          "teamManager": "<@842848369352900628>",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "Team KnockØUT",
+          "teamTag": "〖TKØ〗",
+          "teamManager": "<@772228281973604413>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Team Gwenso7",
+          "teamTag": "TES",
+          "teamManager": "<@858278647227482132>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Four From Hell",
+          "teamTag": "FFH",
+          "teamManager": "<@715944707905290310>",
+          "confirm": ""
+        },
+        {
+          "teamName": "4KingsESports",
+          "teamTag": "4Kings",
+          "teamManager": "<@837649121698644040>",
+          "confirm": ""
+        },
+        {
+          "teamName": "ForTheGlory",
+          "teamTag": "ftg",
+          "teamManager": "<@689894895732916292>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Beastoftdm",
+          "teamTag": "Bot",
+          "teamManager": "<@827117014857416715>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Power king ",
+          "teamTag": "PK",
+          "teamManager": "<@678679014767984640>",
+          "confirm": ""
+        },
+        {
+          "teamName": "zero Esports",
+          "teamTag": "am",
+          "teamManager": "<@770801214396170240>",
+          "confirm": ""
+        },
+        {
+          "teamName": "RoyalHard 2",
+          "teamTag": "RHDx",
+          "teamManager": "<@940626230783389788>",
+          "confirm": ""
+        },
+        {
+          "teamName": "igaming",
+          "teamTag": "i",
+          "teamManager": "<@901866880569081917>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Strong Union",
+          "teamTag": "STR",
+          "teamManager": "<@764961998676951051>",
+          "confirm": ""
+        },
+        {
+          "teamName": "The head ddd",
+          "teamTag": "Hvs",
+          "teamManager": "<@397426063506145291>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Venus Girls ",
+          "teamTag": "venus ",
+          "teamManager": "<@705826148432740442>",
+          "confirm": ""
+        },
+        {
+          "teamName": "SKYFIVE",
+          "teamTag": "sky5",
+          "teamManager": "<@803761455085912135>",
+          "confirm": ""
+        }
+      ],
+      "schedules": {
+        "clear_all": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 9,
+          "minute": 15
+        },
+        "open_early_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 10,
+          "minute": 0
+        },
+        "open_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 17,
+          "minute": 0
+        },
+        "open_confirmations": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 30
+        },
+        "remove_unconfirmed": {
+          "dayOfWeek": [],
+          "hour": "",
+          "minute": ""
+        },
+        "close_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 1,
+          "minute": 28
+        },
+        "open_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 1,
+          "minute": 30
+        },
+        "close_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 1,
+          "minute": 35
+        }
+      }
+    },
+    {
+      "server_code": "ILL_GREEN",
+      "channel_Registrations": "802500697899532288",
+      "channel_Confirmations": "803778091322572810",
+      "channel_IDPW": "803270950346948623",
+      "channel_Waitlist": "805477311780356178",
+      "channel_Chat": "825439099619377222",
+      "role_Registrations": "LATE NIGHT SCRIM",
+      "role_Vip_1": "LN FAST TRACK LVL 1",
+      "role_Vip_2": "LN FAST TRACK LVL 2",
+      "role_Vip_3": "LN FAST TRACK LVL 3",
+      "role_Vip_4": "vip ulaz",
+      "role_Waitlist": "LATE NIGHT WAITLIST",
+      "role_IDPW": "LN LOBBY A",
+      "role_Banned": "BAN🚫",
+      "text_early_regs": "Registration is now open for <@&828358425754206260>\n<@&828358487754539028>\n<@&828358537931522095>\n<@&894873038531739709>  \n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_open_regs": "Registration is now open for <@&894947754831384608> \n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_regs": "Registrations are closed now!",
+      "text_open_waitlist": "<@&903501764312039474>  Waitlist is open!\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_waitlist": "Waitlist is closed!",
+      "text_confirmation": "<@&903501776324558848> Please cancel until 19:30!",
+      "text_slots": "<:illegaly:855093957566136340> **__ILLEGALY 23 CEST SCRIM__** <:illegaly:855093957566136340>\n\n",
+      "text_free_slots": "__**23PM CEST OPEN**__ scrim",
+      "text_dm_confirmation": "**Illegaly Gaming __23 CEST__ scrims.**",
+      "msg_Waitlist": "1004556710591070248",
+      "msg_Slots": "1003050555788251237",
+      "msg_IDPW": "1003050594593935451",
+      "msg_Confirmation": "",
+      "is_open_Registrations": false,
+      "is_open_Waitlist": false,
+      "just_unconfirm": true,
+      "allowed_multiple_tags": false,
+      "number_of_teams": 18,
+      "max_number_of_teams": 18,
+      "number_first_slot": 3,
+      "number_of_VIP_slots": 2,
+      "remove_unconfirmed": false,
+      "activate_schedules": true,
+      "activate_results": true,
+      "results": {
+        "name": "ILL GREEN 23PM Scrims",
+        "link_code": "11j0RUEEw-QSJRvvX2nnQoL99wzQIZrh0QG8534p_36c",
+        "format": "scrim-manager",
+        "channel_Results": "728273353361588315",
+        "sheet_title": "23CEST",
+        "img_blank": "ILL_Green_23_blank.png",
+        "img_done": "ILL_Green_23_results.png",
+        "font": "open_sans_white/MEWRO_i1eSwTCajV77NtVuVW.ttf.fnt",
+        "text_0": "<:illegaly:855093957566136340> **__ILLEGALY 23 CEST SCRIM RESULTS __**<:illegaly:855093957566136340>\n",
+        "text_1": "\n<a:1cup:868371850533699604> **",
+        "text_2": "**\n<a:2cup:868371886306893854> **",
+        "text_3": "**\n<a:3cup:868371918833713172> **",
+        "text_4": "**\n\n**tag us on Instagram for a chance to be reposted** https://www.instagram.com/illegaly_gaming/ \n\n**proceed to <#882341217084514385> if you enjoyed!**\n\n<:illegaly:855093957566136340> **Thank you for participating and see you next time!**\n<:illegaly:855093957566136340> <@&894947754831384608>"
+      },
+      "slots": [
+        {
+          "teamName": "zero eSport",
+          "teamTag": "z͜ero",
+          "teamManager": "<@680635233787445326>",
+          "confirm": ""
+        },
+        {
+          "teamName": "DoOrDie Official",
+          "teamTag": "DoD",
+          "teamManager": "<@404028658421071902>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Darkness Blackness",
+          "teamTag": "dkr",
+          "teamManager": "<@612044482862514297>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Methamphetamine ",
+          "teamTag": "b4m",
+          "teamManager": "<@763404437863268372>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Wasted",
+          "teamTag": "wasted ",
+          "teamManager": "<@448879930282082304>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Zero Tolerance ",
+          "teamTag": "ZT",
+          "teamManager": "<@886578520468369410>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Xala snipar",
+          "teamTag": "XS",
+          "teamManager": "<@997912556054270082>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Creation",
+          "teamTag": "cre",
+          "teamManager": "<@530203270036062240>",
+          "confirm": ""
+        },
+        {
+          "teamName": "ÈXITO'SOA",
+          "teamTag": "ÈXITO",
+          "teamManager": "<@750241279727763476>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Alien Esports Evogs ",
+          "teamTag": "AEev ",
+          "teamManager": "<@586889094815154200>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Bro Es",
+          "teamTag": "bro",
+          "teamManager": "<@1007793949999628420>",
+          "confirm": ""
+        },
+        {
+          "teamName": "2L boyzz",
+          "teamTag": "2L",
+          "teamManager": "<@911361683262406707>",
+          "confirm": ""
+        },
+        {
+          "teamName": "NECAT",
+          "teamTag": "NECAT",
+          "teamManager": "<@999170303169155092>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Black Mamba",
+          "teamTag": "bm",
+          "teamManager": "<@892817340566229043>",
+          "confirm": ""
+        },
+        {
+          "teamName": "1Tx",
+          "teamTag": "1Tx",
+          "teamManager": "<@939818540020670474>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Blood takers starlight",
+          "teamTag": "B̴T̴x ",
+          "teamManager": "<@920648974522802186>",
+          "confirm": ""
+        },
+        {
+          "teamName": "404xNotFound",
+          "teamTag": "4NFx",
+          "teamManager": "<@965527054537867304>",
+          "confirm": ""
+        },
+        {
+          "teamName": "Quit Killing",
+          "teamTag": "quit",
+          "teamManager": "<@995499191885373491>",
+          "confirm": ""
+        },
+        {
+          "teamName": "ILLEGALY ESPORTS",
+          "teamTag": "iLL",
+          "teamManager": "<@317765815891918851>",
+          "confirm": ""
+        },
+        {
+          "teamName": "FTY eSports",
+          "teamTag": "fty ",
+          "teamManager": "<@536310430369316917>",
+          "confirm": ""
+        }
+      ],
+      "schedules": {
+        "clear_all": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 9,
+          "minute": 15
+        },
+        "open_early_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 10,
+          "minute": 0
+        },
+        "open_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 17,
+          "minute": 0
+        },
+        "open_confirmations": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 17,
+          "minute": 30
+        },
+        "remove_unconfirmed": {
+          "dayOfWeek": [],
+          "hour": "",
+          "minute": ""
+        },
+        "close_regs": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 22,
+          "minute": 28
+        },
+        "open_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 22,
+          "minute": 30
+        },
+        "close_waitlist": {
+          "dayOfWeek": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "hour": 22,
+          "minute": 35
+        }
+      }
+    }
+  ]
+}
